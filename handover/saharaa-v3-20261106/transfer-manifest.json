@@ -1,0 +1,46 @@
+{
+  "format": "SAHARAA-ENCRYPTED-HANDOVER-1",
+  "project": "SAHARAA V3",
+  "encryption": "AES-256-GCM with PBKDF2-HMAC-SHA256; password is not published",
+  "encrypted_bytes": 163100483,
+  "encrypted_sha256": "0c2a2c08d43359507133eb60bcd854fedc7be315e8590558f724c62a64e398cc",
+  "archive_bytes": 163100340,
+  "archive_sha256": "18f07049b0088de149b43f612c709eecc5d9a69bf868f102f4c7a7a731a30bb0",
+  "parts": [
+    {
+      "name": "SAHARAA-V3.part01-of-07.bin",
+      "bytes": 25165824,
+      "sha256": "43790b07570842ceb015559bc2e6b4534c08dc4f312e61e3d73d731be9096271"
+    },
+    {
+      "name": "SAHARAA-V3.part02-of-07.bin",
+      "bytes": 25165824,
+      "sha256": "80b42e45bd62942678e8f58c6d98a4653b3aa34f71052bee01fc940183a0de27"
+    },
+    {
+      "name": "SAHARAA-V3.part03-of-07.bin",
+      "bytes": 25165824,
+      "sha256": "d5763d23d8e49b38ca8dadd9bab3597e7ae6447f6a0dc414b5ea0262cb051a4e"
+    },
+    {
+      "name": "SAHARAA-V3.part04-of-07.bin",
+      "bytes": 25165824,
+      "sha256": "3a2f12b824f039050eed86d3d26202bdb3c9d7f32651eb8bab3b0d1bea7414b7"
+    },
+    {
+      "name": "SAHARAA-V3.part05-of-07.bin",
+      "bytes": 25165824,
+      "sha256": "71066fce803f2cc51ae2007a8aeedb41187f201c39743f660345c11266c7a16b"
+    },
+    {
+      "name": "SAHARAA-V3.part06-of-07.bin",
+      "bytes": 25165824,
+      "sha256": "2f28ef1e24401cb1084b52e684764b9f63d77d03bdcc2127c18b5a6b14a882d4"
+    },
+    {
+      "name": "SAHARAA-V3.part07-of-07.bin",
+      "bytes": 12105539,
+      "sha256": "0c6193737bf0cabdb8cf6e33f47fdc166ee5197a6ae8bcde32cd0c7228491b43"
+    }
+  ]
+}

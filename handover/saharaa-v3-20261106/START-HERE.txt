@@ -1,0 +1,1 @@
+SAHARAA V3 project handover. The project is encrypted. Its password is provided separately by the owner, not stored here. Download restore_saharaa.py and use it with the immutable transfer-manifest.json URL and --password-file. Python cryptography is needed for AES-GCM decryption. The archive contains the editable current project and media, but no account credentials.
